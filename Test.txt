@@ -1,0 +1,107 @@
+C:\1\cmd2phone.exe
+C:\1\cmd2phone.INI
+C:\1\cmd2phone.log
+C:\1\Log.txt
+C:\1\output.txt
+C:\1\phone.txt
+C:\1\text.txt
+C:\1\V7PLUS.DLL
+C:\1\ПримерФайлаXML.xml
+C:\1\Новая папка\1Cv7.zip
+C:\1\Новая папка\1Cv77.rar
+C:\1\Новая папка\1Cv7_18_04_2015.zip
+C:\1\Новая папка\1Cv7_18_04_2015_13_25.zip
+C:\1\Новая папка\base.zip
+C:\1\Новая папка\Desktop.7z
+C:\1\Новая папка\.hg\00changelog.i
+C:\1\Новая папка\.hg\branch
+C:\1\Новая папка\.hg\dirstate
+C:\1\Новая папка\.hg\hgrc
+C:\1\Новая папка\.hg\last-message.txt
+C:\1\Новая папка\.hg\requires
+C:\1\Новая папка\.hg\sourcetreeconfig
+C:\1\Новая папка\.hg\undo.bookmarks
+C:\1\Новая папка\.hg\undo.branch
+C:\1\Новая папка\.hg\undo.desc
+C:\1\Новая папка\.hg\undo.dirstate
+C:\1\Новая папка\.hg\cache\branch2-served
+C:\1\Новая папка\.hg\cache\tags
+C:\1\Новая папка\.hg\store\00changelog.i
+C:\1\Новая папка\.hg\store\00manifest.i
+C:\1\Новая папка\.hg\store\fncache
+C:\1\Новая папка\.hg\store\phaseroots
+C:\1\Новая папка\.hg\store\undo
+C:\1\Новая папка\.hg\store\undo.phaseroots
+C:\1\Новая папка\.hg\store\data\1_cv7.zip.d
+C:\1\Новая папка\.hg\store\data\1_cv7.zip.i
+C:\1\Новая папка\.hg\store\data\1_cv77.rar.d
+C:\1\Новая папка\.hg\store\data\1_cv77.rar.i
+C:\1\Новая папка\.hg\store\data\1_cv7__18__04__2015.zip.d
+C:\1\Новая папка\.hg\store\data\1_cv7__18__04__2015.zip.i
+C:\1\Новая папка\.hg\store\data\1_cv7__18__04__2015__13__25.zip.d
+C:\1\Новая папка\.hg\store\data\1_cv7__18__04__2015__13__25.zip.i
+C:\1\Новая папка\.hg\store\data\base.zip.d
+C:\1\Новая папка\.hg\store\data\base.zip.i
+C:\1\Новая папка\.hg\store\data\_desktop.7z.d
+C:\1\Новая папка\.hg\store\data\_desktop.7z.i
+C:\1\Новая папка\.hg\store\data\5.5.2015\5.5.2015.rar.d
+C:\1\Новая папка\.hg\store\data\5.5.2015\5.5.2015.rar.i
+C:\1\Новая папка\.hg\store\data\5.5.2015\readme.txt.i
+C:\1\Новая папка\.hg\store\data\5.5.2015__ver2\1_cv77.rar.d
+C:\1\Новая папка\.hg\store\data\5.5.2015__ver2\1_cv77.rar.i
+C:\1\Новая папка\.hg\store\data\5.5.2015__ver2\baza1.rar.d
+C:\1\Новая папка\.hg\store\data\5.5.2015__ver2\baza1.rar.i
+C:\1\Новая папка\.hg\store\data\5.5.2015__ver2\readme.txt.i
+C:\1\Новая папка\.hg\store\data\5.5.2015__ver2\_s_m_s.rar.d
+C:\1\Новая папка\.hg\store\data\5.5.2015__ver2\_s_m_s.rar.i
+C:\1\Новая папка\.hg\store\data\_sms_sender\_sms_sender.sln.i
+C:\1\Новая папка\.hg\store\data\_sms_sender\~c2~fb~e2~ee~e4-~ce~f2~eb~e0~e4~ea~e0.txt.i
+C:\1\Новая папка\.hg\store\data\_sms_sender\_sms_sender\_app.config.i
+C:\1\Новая папка\.hg\store\data\_sms_sender\_sms_sender\_program.cs.i
+C:\1\Новая папка\.hg\store\data\_sms_sender\_sms_sender\_sms_sender.csproj.i
+C:\1\Новая папка\.hg\store\data\_sms_sender\_sms_sender\_x_m_l_reder.cs.i
+C:\1\Новая папка\.hg\store\data\_sms_sender\_sms_sender\bin\_debug\cmd2phone.rar.d
+C:\1\Новая папка\.hg\store\data\_sms_sender\_sms_sender\bin\_debug\cmd2phone.rar.i
+C:\1\Новая папка\.hg\store\data\_sms_sender\_sms_sender\bin\_debug\cmd2phone._i_n_i.i
+C:\1\Новая папка\.hg\store\data\_sms_sender\_sms_sender\bin\_debug\_sms_sender.exe.config.i
+C:\1\Новая папка\.hg\store\data\_sms_sender\_sms_sender\bin\_debug\_sms_sender.vshost.exe.config.i
+C:\1\Новая папка\.hg\store\data\_sms_sender\_sms_sender\bin\_debug\_sms_sender.vshost.exe.manifest.i
+C:\1\Новая папка\.hg\store\data\_sms_sender\_sms_sender\bin\_debug\_x_m_l_from1_c.xml.i
+C:\1\Новая папка\.hg\store\data\_sms_sender\_sms_sender\obj\_debug\_sms_sender.csproj._file_list_absolute.txt.i
+C:\1\Новая папка\.hg\store\data\_sms_sender\_sms_sender\obj\_debug\_temporary_generated_file__036_c0_b5_b-1481-4323-8_d20-8_f5_a_d_c_b23_d92.cs.i
+C:\1\Новая папка\.hg\store\data\_sms_sender\_sms_sender\obj\_debug\_temporary_generated_file__5937a670-0e60-4077-877b-f7221da3dda1.cs.i
+C:\1\Новая папка\.hg\store\data\_sms_sender\_sms_sender\_properties\_assembly_info.cs.i
+C:\1\Новая папка\.hg\store\dh\smssende\smssende\obj\debug\temporarygeneratedfile_e7a71f73-0f8d-4b9b-b56e-556e8658b2f01adf5376303ead866bfe4826a2d7.i
+C:\1\Новая папка\5.5.2015\5.5.2015.rar
+C:\1\Новая папка\5.5.2015\readme.txt
+C:\1\Новая папка\5.5.2015_ver2\1Cv77.rar
+C:\1\Новая папка\5.5.2015_ver2\baza1.rar
+C:\1\Новая папка\5.5.2015_ver2\readme.txt
+C:\1\Новая папка\5.5.2015_ver2\SMS.rar
+C:\1\Новая папка\SmsSender\SmsSender.sln
+C:\1\Новая папка\SmsSender\SmsSender.v12.suo
+C:\1\Новая папка\SmsSender\Вывод-Отладка.txt
+C:\1\Новая папка\SmsSender\SmsSender\App.config
+C:\1\Новая папка\SmsSender\SmsSender\Program.cs
+C:\1\Новая папка\SmsSender\SmsSender\SmsSender.csproj
+C:\1\Новая папка\SmsSender\SmsSender\XMLReder.cs
+C:\1\Новая папка\SmsSender\SmsSender\bin\Debug\cmd2phone.exe
+C:\1\Новая папка\SmsSender\SmsSender\bin\Debug\cmd2phone.INI
+C:\1\Новая папка\SmsSender\SmsSender\bin\Debug\cmd2phone.log
+C:\1\Новая папка\SmsSender\SmsSender\bin\Debug\cmd2phone.rar
+C:\1\Новая папка\SmsSender\SmsSender\bin\Debug\SmsSender.exe
+C:\1\Новая папка\SmsSender\SmsSender\bin\Debug\SmsSender.exe.config
+C:\1\Новая папка\SmsSender\SmsSender\bin\Debug\SmsSender.pdb
+C:\1\Новая папка\SmsSender\SmsSender\bin\Debug\SmsSender.vshost.exe
+C:\1\Новая папка\SmsSender\SmsSender\bin\Debug\SmsSender.vshost.exe.config
+C:\1\Новая папка\SmsSender\SmsSender\bin\Debug\SmsSender.vshost.exe.manifest
+C:\1\Новая папка\SmsSender\SmsSender\bin\Debug\XMLFrom1C.xml
+C:\1\Новая папка\SmsSender\SmsSender\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+C:\1\Новая папка\SmsSender\SmsSender\obj\Debug\SmsSender.csproj.FileListAbsolute.txt
+C:\1\Новая папка\SmsSender\SmsSender\obj\Debug\SmsSender.csprojResolveAssemblyReference.cache
+C:\1\Новая папка\SmsSender\SmsSender\obj\Debug\SmsSender.exe
+C:\1\Новая папка\SmsSender\SmsSender\obj\Debug\SmsSender.pdb
+C:\1\Новая папка\SmsSender\SmsSender\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+C:\1\Новая папка\SmsSender\SmsSender\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+C:\1\Новая папка\SmsSender\SmsSender\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+C:\1\Новая папка\SmsSender\SmsSender\Properties\AssemblyInfo.cs
